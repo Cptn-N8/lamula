@@ -1,0 +1,84 @@
+We measured simultaneously two isotopes, 172 and 174.
+
+Oven parameters> rear - 526 C, front 576 C, we have 50 volts at the oven.
+
+Voltage PMT is 1275 V.
+
+172 is excited by carrier
+174 by sideband
+
+We are scanning carrier around 414.878397 Thz by nominal -8 Mhz in 3.0 s
+
+The modulation frequency will begin at 647.225 Mhz (=0)
+
+We will balance power at 0 Freq. 
+
+--- Round one: Full optical power, 172 is excited by carrier, 174 by sideband, 1 A on the Y coil (along atom beam), corresponding to around 4 G. RF Gen out: 15.2732 dBm  ---
+
+freq
+(Mhz)
+647 + | file numbers
+.225 - 001 to 005
+.230 - 006 to 010
+.235 - 011 to 015
+.240 - 016 to 020
+.245 - 021 to 025
+.250 - 026 to 030
+.255 - 031 to 035
+.260 - 036 to 040
+.265 - 041 to 045
+
+--- Round two:  Same but with power imbalance ( carrier around 1 V, sidebands around 0.7 V), RF Gen out> 14,5 dBm. taking less data points ---
+
+freq
+(Mhz)
+647 + | file numbers
+.242 - 046 to 049
+.249 - 050 to 053
+.256 - 054 to 057
+.263 - 058 to 061
+.235 - 062 to 065
+.228 - 066 to 069
+.221 - 070 to 073
+
+
+--- Round three:  Now we swap to excite 174 with the carrier and 172 with the sideband. So We are scanning carrier around 414.877750 Thz by nominal -8 Mhz in 3.0 s. RF Gen out = 14,5 dBm. taking less data points. (Power Imbalanced) ---
+
+freq
+(Mhz)
+647 + | file numbers
+.242 - 074 to 077
+.249 - 078 to 081
+.256 - 082 to 085
+.263 - 086 to 089
+.235 - 090 to 093
+.228 - 094 to 097
+.221 - 098 to 101
+
+--- Round four: Power balancing the above situation, RF = 15.2685 ---
+
+freq
+(Mhz)
+647 + | file numbers
+.242 - 102 to 105
+.249 - 106 to 109
+.256 - 110 to 113
+.263 - 114 to 117
+.235 - 118 to 121
+.228 - 122 to 125
+.221 - 126 to 129
+
+--- Round 5: now looking at 176 with the sideband, carrier still at 174 (414.877750 THz), RF Gen at 616.920 MHz and 15.8025 dBm (Power Balanced) ---
+
+freq
+(Mhz)
+616 + | file numbers
+.920 - 130 to 133
+.927 - 134 to 137 
+.934 - 138 to 141
+.941 - 142 to 145
+.913 - 146 to 149
+.906 - 150 to 153
+.899 - 154 to 157
+
+ Final Temperature 579.11 C front, 527.72 C rear
